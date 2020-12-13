@@ -3,6 +3,7 @@
 Team Member: Changcheng Fu (cf7), Jiaying Li (jl63), Yanghui Pang (yanghui2)
 
 ## Code Submission
+Find it in "Code" directory, or
 [Click here to download our project](https://github.com/yhui288/ClassificationCompetition) <br>
 <br>
 Project Code:
