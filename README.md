@@ -2,6 +2,9 @@
 
 Team Member: Changcheng Fu (cf7), Jiaying Li (jl63), Yanghui Pang (yanghui2)
 
+## Presentation Video
+[Click Here to watch the presentation video](https://drive.google.com/file/d/1WlLuUBaauCe_yQBEOWXbl8YxxzWSVEQF/view?usp=sharing)
+
 ## File Structure
 - Code Submission:
 containing the code for training model, saved model, predicted results
